@@ -1,0 +1,41 @@
+
+#IMG-NAVBAR {
+    height: 50px;
+    width: 100px;
+}
+
+#navBar{
+    background-color: #FFFFFF;
+}
+
+#titulo{
+    margin-top: 1%;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 20px 20px 20px 20px;
+    text-align: center;
+    background-color: antiquewhite;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.BotonesLyS{
+    font-size: 20px;
+    border-radius: 20px 10px 20px 10px;
+    background-color: antiquewhite;
+}
+
+.BotonesLyS:hover{
+    background-color: red;
+    color: #FFFFFF;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+}
+
+#BotonL{
+    margin-right: 1%
+}
+
+#carouselExampleDark{
+    height: 70%;
+    width: 70%;   
+}
